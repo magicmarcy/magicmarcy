@@ -1,4 +1,4 @@
-### Hello, I'm Marcy (magicmarcy)
+### :uk: Hello, I'm Marcy (magicmarcy)
 My name is Marcel and I come from Germany. Well, my english is probably not very good but I try to keep everything here as understandable as possible ;-)
 
 Professionally, I mainly work in web development with Java and JSF and many well-known frameworks such as Primefaces.
@@ -44,3 +44,48 @@ The repositories on this GitHub account are exclusively my private projects.
 
 [twitter]: https://twitter.com/magic_marcy
 [instagram]: https://instagram.com/magicmarcy
+
+
+### :de: Hallo, ich bin Marcy (magicmarcy)
+Mein Name ist Marcel und ich komme aus Deutschland. Nun, mein englisch ist nicht so gut aber ich versuche alles hier so verständlich wie möglich zu halten ;-)
+
+Beruflich arbeite ich als Web-Developer mit Java und JSF und einigen bekannten Frameworks, wie z.B. Primefaces.
+
+In meiner Freizeit versuche ich an vielen anderen Dingen wie PHP, JavaScript und anderen Framworks (z.B. Node.js) aber auch Python oder purem HTML und CSS. Auch habe ich schon die verschiedensten Projekte mit unterschiedlichen CMS wie WordPress u.a. umgesetzt.
+
+Auch arbeite ich an verschiedenen Tools wie Discord- und Twitch-Bots in unterschiedlichen Programmiersprachen unter Windows und Linux. Ich bin sehr neugierig und probiere auch viele Dinge aus. Die meisten meiner Projekte hoste ich auf meinem RaspberryPi.
+
+Die Repositories auf meiner GitHub Seite sind ausschließlich meine privaten Projekte.
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/magic_marcy?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmagic_marcy&screen_name=magic_marcy)
+
+## Developer und Fulltime-nerd 🤣
+
+- Ich hab Spaß am programmieren und probiere gern neues aus
+- Ich programmiere seit 2017, beruflich seit 2019
+- An Webdesign schon seit meiner Jugend interessiert
+
+### Verbindungen:
+
+[<img align="left" alt="@magic_marcy | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="magicmarcy | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
+
+### Sprachen und Tools:
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
+<br />
+<br />
+
+---
