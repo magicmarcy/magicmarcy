@@ -21,6 +21,7 @@ The repositories on this GitHub account are exclusively my private projects.
 
 [<img align="left" alt="@magic_marcy | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="magicmarcy | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="magicmarcy | Mastodon" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Mastodon_Logotype_%28Simple%29.svg" />][mastodon]
 
 <br />
 
@@ -44,3 +45,4 @@ The repositories on this GitHub account are exclusively my private projects.
 
 [twitter]: https://twitter.com/magic_marcy
 [instagram]: https://instagram.com/magicmarcy
+[mastodon]: https://ruhr.social/@magicmarcy
