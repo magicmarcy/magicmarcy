@@ -41,6 +41,10 @@ The repositories on this GitHub account are exclusively my private projects.
 <br />
 <br />
 
+<div style="visibility: hidden;">
+  <a rel="me" href="https://ruhr.social/@magicmarcy">Mastodon</a>
+</div>
+
 ---
 
 [twitter]: https://twitter.com/magic_marcy
