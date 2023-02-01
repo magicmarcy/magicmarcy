@@ -1,21 +1,21 @@
 ### Hello, I'm Marcy (magicmarcy)
-My name is Marcel and I come from Germany. Well, my english is probably not very good but I try to keep everything here as understandable as possible ;-)
+My name is Marcel and I am from Germany. Well, my English is probably not very good, but I try to keep everything as understandable as possible ;-)
 
-Professionally, I mainly work in web development with Java and JSF and many well-known frameworks such as Primefaces.
+Professionally, I mainly work in web development with Java and JSF and many well-known frameworks like Primefaces.
 
-In my free time, I also like to deal with many other things such as PHP, JavaScript and various frameworks (e.g. Node.js) but also with Python or pure HTML and CSS. But I have also implemented a wide variety of projects with different CMS such as WordPress and others.
+In my spare time I like to play around with other things like PHP, JavaScript and various frameworks (e.g. Node.js), but also with Python or pure HTML and CSS. I have also done a lot of projects with different CMS like WordPress and others.
 
-In addition, I work on various tools such as Discord or Twitch bots in various programming languages under Windows and Linux, and I'm very keen to try things out in this area as well. Most of my projects i'm hosting on my own RaspberryPi.
+I'm also working on various tools like Discord or Twitch bots in different programming languages on Windows and Linux, and I'm very interested in trying things out in this area as well. Most of my projects are hosted on my own RaspberryPi.
 
-The repositories on this GitHub account are exclusively my private projects.
+The repositories on this GitHub account are exclusively my personal projects.
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/magic_marcy?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmagic_marcy&screen_name=magic_marcy)
 
 ## Developer and fulltime-nerd 🤣
 
-- I am interested in programming and always trying out new things
-- I have been programming properly since 2017, professionally since 2019
-- Interested in web design since my youth
+- I am interested in programming and I am always trying to do new things.
+- I have been a programmer since 2017, and a professional programmer since 2019.
+- Interested in webdesign since I started growing up
 
 ### Connections:
 
