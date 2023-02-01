@@ -65,6 +65,8 @@ The repositories on this GitHub account are exclusively my personal projects.
 
 <br/>  
 
+## Spotify
+
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=bsgxw84wfmdz63hbsxexqtup1&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div>  
 
 <br/>  
