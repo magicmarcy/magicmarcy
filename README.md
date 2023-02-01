@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I speak 🇩🇪 as well as 🇺🇸, but my English is probably not very good, but I try to keep everything as understandable as possible 😉<br><br>Professionally, I mainly work in web development with Java and JSF and many well-known frameworks like Primefaces.<br><br>In my spare time I like to play around with other things like PHP, JavaScript and various frameworks (e.g. Node.js), but also with Python or pure HTML and CSS. I have also done a lot of projects with different CMS like WordPress and others.<br><br>I'm also working on various tools like Discord or Twitch bots in different programming languages on Windows and Linux, and I'm very interested in trying things out in this area as well. Most of my projects are hosted on my own RaspberryPi.<br><br>The repositories on this GitHub account are exclusively my personal projects.</p>
+<p align="left">My English is probably not very good, but I try to keep everything as understandable as possible 😉<br><br>Professionally, I mainly work in web development with Java and JSF and many well-known frameworks like Primefaces.<br><br>In my spare time I like to play around with other things like PHP, JavaScript and various frameworks (e.g. Node.js), but also with Python or pure HTML and CSS. I have also done a lot of projects with different CMS like WordPress and others.<br><br>I'm also working on various tools like Discord or Twitch bots in different programming languages on Windows and Linux, and I'm very interested in trying things out in this area as well. Most of my projects are hosted on my own RaspberryPi.<br><br>The repositories on this GitHub account are exclusively my personal projects.</p>
 
 ###
 
