@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="left">
-  <img height="300" src="https://raw.githubusercontent.com/magicmarcy/magicmarcy/main/index.png"  />
+  <img height="200" src="https://raw.githubusercontent.com/magicmarcy/magicmarcy/main/index.png"  />
 </div>
 
 ###
