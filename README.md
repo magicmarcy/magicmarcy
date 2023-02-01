@@ -1,3 +1,5 @@
+<img src="https://github.com/magicmarcy/magicmarcy/blob/main/index.png" alt="banner that says hi i am magicmarcy">
+
 ### Hello, I'm Marcy (magicmarcy)
 My name is Marcel and I am from Germany. Well, my English is probably not very good, but I try to keep everything as understandable as possible ;-)
 
