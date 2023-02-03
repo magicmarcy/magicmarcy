@@ -46,7 +46,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="30" width="42" alt="wordpress logo"  />
 </div>
 
-###
+<hr/>
 
 <p align="left">
 	<a href="https://www.instagram.com/magicmarcy/" target="_blank">
@@ -66,7 +66,7 @@
 	</a>
 </p>
 
-###
+<hr/>
 
 <br clear="both">
 
