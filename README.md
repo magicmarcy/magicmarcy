@@ -48,18 +48,23 @@
 
 ###
 
-<div align="left">
-  <a href="https://www.instagram.com/magicmarcy/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <a href="https://t.me/marcyessen" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
-  </a>
-  <a href="https://twitter.com/magic_marcy" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
-</div>
+<p align="left">
+	<a href="https://www.instagram.com/magicmarcy/" target="_blank">
+		<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/instagram.svg" alt="instagram" style="vertical-align:top; margin:6px 4px">
+	</a>  
+	<a href="https://twitch.tv/w8abit_de" target="_blank">
+		<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/streaming/twitch.svg" alt="twitch" style="vertical-align:top; margin:6px 4px">
+	</a> 
+	<a href="https://t.me/marcyessen" target="_blank">
+		<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/telegram.svg" alt="telegram" style="vertical-align:top; margin:6px 4px">
+	</a>    
+	<a href="https://twitter.com/magic_marcy" target="_blank">
+		<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/twitter.svg" alt="twitter" style="vertical-align:top; margin:6px 4px">
+	</a>
+	<a href="https://twitter.com/w8abit_de" target="_blank">
+		<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/twitter.svg" alt="twitter" style="vertical-align:top; margin:6px 4px">
+	</a>
+</p>
 
 ###
 
