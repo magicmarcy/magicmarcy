@@ -64,9 +64,6 @@
   <a href="https://twitter.com/w8abit_de" target="_blank">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/twitter.svg" alt="twitter" style="vertical-align:top; margin:6px 4px">
   </a>
-  <a href="https://ruhr.social/@magicmarcy" target="_blank">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/mastodon.svg" alt="mastodon" style="vertical-align:top; margin:6px 4px">
-  </a>
 </p>
 
 <hr/>
