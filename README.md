@@ -2,6 +2,17 @@
 
 I am **Marcel**, known as **magicmarcy**, a passionate **Fullstack Developer** from Germany. For six years, I have been working as an **Application Developer**, applying my knowledge both professionally and in private projects.
 
+## About me  
+I am a passionate FullStack developer with over six years of experience in software development. During this time, I have worked on various projects, covering both frontend and backend development, and have gained extensive knowledge in different technologies and programming languages, especially Java.  
+
+In addition to my work as a developer, I have been a trainer in our company for over a year. I mentor apprentices, students, interns, and career changers, helping them develop their programming skills. As a trainer, I focus on explaining complex topics in an easy-to-understand way and supporting the learning process with practical examples and individual guidance.  
+
+On my website [magicmarcy.de](https://magicmarcy.de/), I regularly publish articles aimed at beginners in Java development. My goal is to provide an accessible introduction to programming and share my knowledge with the next generation of developers.  
+
+I have also published several projects on [GitHub](https://github.com/magicmarcy), where I contribute my experience and expertise in software development and working with various frameworks and technologies.  
+
+With my broad experience as a FullStack developer and trainer, as well as my passion for helping others grow in programming, I strive to develop both as a developer and as a mentor while continuously expanding my knowledge.  
+
 ## 💻 Professional Focus
 My main focus is on **web development** using **JavaEE**, **Maven**, and everything that comes with it. I develop both **frontend** and **backend** solutions, making me a **Fullstack Developer**. My expertise includes working with **JSF**, **PrimeFaces**, and various **Java-based frameworks** to build high-performance and scalable applications.
 
