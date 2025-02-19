@@ -1,25 +1,36 @@
-<br clear="both">
+### 👋 Welcome to my GitHub Profile!
 
-<div align="left">
-  <img src="https://github.com/magicmarcy/magicmarcy/blob/main/github-header-image1.png"  />
-</div>
+I am **Marcel**, known as **magicmarcy**, a passionate developer from Germany. For six years, I have been working as an **Application Developer** and applying my knowledge both professionally and in private projects.
 
-###
+## 💻 Professional Focus
+My main focus is on **web development** using **Java** and **JSF**, often working with well-known frameworks like **PrimeFaces**. My goal is to develop high-performance and scalable applications that meet the demands of modern web projects.
 
-<h2 align="left">Hi 👋! My name is Marcel. A passionate developer from Germany</h2>
+## 🌐 Private Projects and Interests
+In my free time, I enjoy experimenting with various technologies:
 
-###
+- **Programming Languages:** PHP, JavaScript, Python  
+- **Frameworks:** Node.js  
+- **Web Development:** HTML, CSS  
+- **Content Management Systems:** WordPress and others  
 
-<p align="left">My English is probably not very good, but I try to keep everything as understandable as possible 😉<br><br>Professionally, I mainly work in web development with Java and JSF and many well-known frameworks like Primefaces.<br><br>In my spare time I like to play around with other things like PHP, JavaScript and various frameworks (e.g. Node.js), but also with Python or pure HTML and CSS. I have also done a lot of projects with different CMS like WordPress and others.<br><br>I'm also working on various tools like Discord or Twitch bots in different programming languages on Windows and Linux, and I'm very interested in trying things out in this area as well. Most of my projects are hosted on my own RaspberryPi.<br><br>The repositories on this GitHub account are exclusively my personal projects.</p>
+I also work on various tools such as **Discord** or **Twitch bots** in different programming languages on **Windows** and **Linux**. Many of my projects are hosted on my own **Raspberry Pi**, allowing me to expand my knowledge in **DevOps** and **system administration**.
 
-###
+## 📌 Featured Projects
 
-<br clear="both">
+- **[justBookmarks](https://github.com/magicmarcy/justBookmarks):** A PHP-based application that makes bookmarks available everywhere and in any browser.  
+- **[SimpleObjectSerializer](https://github.com/magicmarcy/SimpleObjectSerializer):** A Java project enabling easy storage and retrieval of complex DTOs.  
+- **[SimpleLog2File](https://github.com/magicmarcy/SimpleLog2File):** A simple logger for Java applications that stores log entries in files.  
+- **[mastodon-design](https://github.com/magicmarcy/mastodon-design):** A project for customizing Mastodon's default design using custom CSS.  
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=magicmarcy" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=magicmarcy" height="150" alt="languages graph"  />
-</div>
+## 🔗 Why Open Source?
+I am a strong advocate of **open-source software** and the idea of sharing knowledge. On GitHub, you will find a variety of my projects – from useful tools to personal experiments. I welcome feedback, suggestions, or collaboration on exciting projects!
+
+## 💌 Contact
+- **Website/Blog:** [magicmarcy.de](https://magicmarcy.de)  
+- **Mastodon:** [@magicmarcy@ruhr.social](https://ruhr.social/@magicmarcy)  
+- **Instagram:** [magicmarcy](https://instagram.com/magicmarcy)  
+
+Feel free to explore my repositories and don't hesitate to reach out with questions or suggestions!
 
 <hr/>
 
