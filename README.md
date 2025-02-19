@@ -19,8 +19,8 @@ I also work on various tools such as **Discord** or **Twitch bots** in different
 
 - **[justBookmarks](https://github.com/magicmarcy/justBookmarks):** A PHP-based application that makes bookmarks available everywhere and in any browser.  
 - **[SimpleObjectSerializer](https://github.com/magicmarcy/SimpleObjectSerializer):** A Java project enabling easy storage and retrieval of complex DTOs.  
-- **[SimpleLog2File](https://github.com/magicmarcy/SimpleLog2File):** A simple logger for Java applications that stores log entries in files.  
-- **[mastodon-design](https://github.com/magicmarcy/mastodon-design):** A project for customizing Mastodon's default design using custom CSS.  
+- **[SimpleLog2File](https://github.com/magicmarcy/SimpleLog2File):** A simple logger for Java applications that stores log entries in files.
+- **[SQLiteUtils](https://github.com/magicmarcy/SQLiteUtils):** Utilities for using a SQLite database in Java.   
 
 ## 🔗 Why Open Source?
 I am a strong advocate of **open-source software** and the idea of sharing knowledge. On GitHub, you will find a variety of my projects – from useful tools to personal experiments. I welcome feedback, suggestions, or collaboration on exciting projects!
