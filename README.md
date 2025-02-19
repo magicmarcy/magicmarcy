@@ -1,9 +1,6 @@
 ### 👋 Welcome to my GitHub Profile!
 
-I am **Marcel**, known as **magicmarcy**, a passionate **Fullstack Developer** from Germany. For six years, I have been working as an **Application Developer**, applying my knowledge both professionally and in private projects.
-
-## About me  
-I am a passionate FullStack developer with over six years of experience in software development. During this time, I have worked on various projects, covering both frontend and backend development, and have gained extensive knowledge in different technologies and programming languages, especially Java.  
+I am **Marcel**, known as **magicmarcy**, from Germany, a passionate **Fullstack Developer** with over six years of experience in software developmenty. During this time, I have worked on various projects, covering both frontend and backend development, and have gained extensive knowledge in different technologies and programming languages, especially Java.  
 
 In addition to my work as a developer, I have been a trainer in our company for over a year. I mentor apprentices, students, interns, and career changers, helping them develop their programming skills. As a trainer, I focus on explaining complex topics in an easy-to-understand way and supporting the learning process with practical examples and individual guidance.  
 
