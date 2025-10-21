@@ -75,26 +75,6 @@ Feel free to explore my repositories and don't hesitate to reach out with questi
 
 <hr/>
 
-<p align="left">
-  <a href="https://www.instagram.com/magicmarcy/" target="_blank">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/instagram.svg" alt="instagram" style="vertical-align:top; margin:6px 4px">
-  </a>  
-  <a href="https://twitch.tv/w8abit_de" target="_blank">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/streaming/twitch.svg" alt="twitch" style="vertical-align:top; margin:6px 4px">
-  </a> 
-  <a href="https://t.me/marcyessen" target="_blank">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/telegram.svg" alt="telegram" style="vertical-align:top; margin:6px 4px">
-  </a>    
-  <a href="https://twitter.com/magic_marcy" target="_blank">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/twitter.svg" alt="twitter" style="vertical-align:top; margin:6px 4px">
-  </a>
-  <a href="https://twitter.com/w8abit_de" target="_blank">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/twitter.svg" alt="twitter" style="vertical-align:top; margin:6px 4px">
-  </a>
-</p>
-
-<hr/>
-
 <br clear="both">
 
 <div align="center">
