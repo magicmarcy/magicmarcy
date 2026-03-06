@@ -15,19 +15,19 @@ I build practical software, developer tools, Java libraries, and plugins — and
 
 Here are a few projects:
 
-- **youtube-click-to-load**  
+- [**youtube-click-to-load**](https://github.com/magicmarcy/youtube-click-to-load)  
   A lightweight solution to improve privacy and performance by loading YouTube videos only after user interaction.
 
-- **keyword-gap-analyzer**  
-  A practical SEO-focused tool for identifying keyword opportunities.
+- [**keyword-gap-analyzer**](https://github.com/magicmarcy/keyword-gap-analyzer)  
+  A practical SEO-focused plugin for identifying keyword opportunities.
 
-- **SQLiteUtils**  
+- [**SQLiteUtils**](https://github.com/magicmarcy/SQLiteUtils)  
   A small Java utility library for easier SQLite integration.
 
-- **MavenBuildManager**  
-  A Java-based helper project for handling Maven build workflows.
+- [**MavenBuildManager**](https://github.com/magicmarcy/MavenBuildManager)  
+  A helper project for managing local build workflows across multiple projects.
 
-- **blog-code-examples**  
+- [**blog-code-examples**](https://github.com/magicmarcy/blog-code-examples)  
   Code examples from my blog posts for beginners and developers learning by doing.
 
 ## Writing and teaching
@@ -51,13 +51,3 @@ I like turning technical topics into practical, understandable examples.
 If you're interested in software development, Java, practical side projects, or teaching tech topics, feel free to check out my repositories and blog.
 
 Thanks for stopping by!
-
-<hr/>
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=magicmarcy.magicmarcy&"  />
-</div>
-
-###
