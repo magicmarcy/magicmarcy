@@ -1,7 +1,7 @@
 # Hi, I'm Marcy 👋
 
 I'm a **Java Full-Stack Developer and Trainer from Germany**.  
-I build practical software, developer tools, Java libraries, and plugins — and I enjoy sharing knowledge with aspiring developers.
+I build practical software, developer tools, Java libraries, and plugins and I enjoy sharing knowledge with aspiring developers.
 
 ## What I focus on
 
@@ -13,7 +13,7 @@ I build practical software, developer tools, Java libraries, and plugins — and
 
 ## Featured projects
 
-Here are a few projects:
+Here are a some of my projects:
 
 - [**youtube-click-to-load**](https://github.com/magicmarcy/youtube-click-to-load)  
   A lightweight solution to improve privacy and performance by loading YouTube videos only after user interaction.
@@ -40,6 +40,8 @@ I like turning technical topics into practical, understandable examples.
 ## Tech I enjoy working with
 
 - **Java**
+- **Python**
+- **PHP**
 - **JavaScript**
 - **HTML / CSS**
 - **SQL**
